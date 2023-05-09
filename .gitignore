@@ -1,0 +1,30 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+/public/vidieo
+/public/480p.mp4
+/public/balen.mp4
+/public/Balenciaga NYC Show Spring 23 Collection_1080p.mp4
+/public/balentest1.mp4
+/src/commponents/square/img
+/src/commponents/slider/img
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,86 @@
+
+.all {
+    color: white;
+}
+
+
+.sq-wrap {
+    border: 1px solid #000000;
+    background: #000000;
+    display: grid;
+    grid-template-columns: 960px 960px;
+    grid-template-rows: 990px 990px;
+}
+
+.test{
+    position: relative;
+}
+.one {
+    width: 100%;
+    height: 990px;
+    background-size: cover;
+    background-image: url('./img/balenmodel2(1).jpg');
+    position: absolute;
+}
+.one > span{
+    position: relative;
+    font-size: 4.5rem;
+    font-weight: 700;
+    top:850px;
+    right : 220px
+}
+.one-1 {
+    /* position: absolute; */
+    background-color: black;
+    width: 100%;
+    height: 1000px;
+}
+
+
+.two {
+    width: 960px;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+
+}
+
+
+.two_1{
+    
+    margin-top: 50px;
+    
+}
+
+.tree {
+    width: 100%; 
+    
+    height: 100%;
+    
+    background-color :rgb(255, 255, 255);
+    background-image: url('./img/balenlogo2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 982px;
+}
+
+.four {
+    width: 100%;
+    height: 100%;
+    background-color:rgb(36, 41, 46);
+
+    background-image: url('./img/NYSE.jpg');
+    background-repeat: no-repeat;
+    background-size: 800px 990px;
+}
+
+.four_1 {
+    writing-mode: vertical-rl;
+    margin-left: 790px;
+    margin-top: 30px;
+    font-size: 10rem;
+    font-weight: 1000;
+}
+
+.nyc {
+    margin: 70PX 300px;
+}

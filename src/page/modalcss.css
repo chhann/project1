@@ -1,0 +1,27 @@
+.all {
+    color: white;
+}
+
+.imgpan {
+    margin-top: 100px;
+}
+
+.border {
+    background-color: white;
+    border: solid 0px white;
+    color: black;
+    
+}
+
+.titleimg{
+    margin-top: 10px;
+}
+.proutimg {
+    margin-top: 50px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 480px 480px; 
+    column-gap: 50px;
+    row-gap: 20px;
+}

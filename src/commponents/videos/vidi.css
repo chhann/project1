@@ -1,0 +1,29 @@
+.video {
+    margin-top: 0px;
+}
+
+.bg{
+    overflow: hidden;
+    margin: 0px auto;
+    position: relative;
+}
+
+.logo {
+    color: white;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 1;
+}
+
+.logo p {
+    color: transparent;
+    
+    text-align: center;
+    font-size: 11rem;
+    font-weight: 1000;
+    -webkit-text-stroke-width: 10px;
+    -webkit-text-stroke-color: #fff;
+}

@@ -1,0 +1,27 @@
+.gridchang{
+    display: grid;
+    grid-template-columns : 50% 50%;
+    grid-template-rows: 100%
+}
+
+.imgs {
+    margin-top: 50px;
+    
+}
+
+.secondimg {
+    margin-top: 5px;
+    width: 745px;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+.insecondimg {
+    margin-bottom: -4px;
+    
+}
+
+.inpo {
+    width: 500px;
+    border: 1px solid white;
+
+}

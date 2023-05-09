@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "name" : "BALENCIAGA / ADIDAS 스트랩 지갑",
+        "titleimgUrl" :"https://balenciaga.dam.kering.com/m/56fe61334aaef404/Small-721932210M81091_F.jpg?v=1",
+        "detailImages" :[""],
+        "kategory" : "bag",
+        "price" :  1805000
+    },
+    {
+        "id" : 2,
+        "name": "SKATE 펜던트 이어링",
+        "titleimgUrl" : "https://ifh.cc/g/oOQTSx.jpg",
+        "detailImages" :[""],
+        "kategory" : "accessory",
+        "price" : 23235325
+    },
+    {
+        "id" : 3,
+        "name" : "BALENCIAGA / ADIDAS 오버사이즈 재킷 에 블랙",
+        "titleimgUrl" : "https://ifh.cc/g/oOQTSx.jpg",
+        "detailImages" :[""],
+        "kategory" : "accessory",
+        "price" : 234325235
+    }
+]

@@ -1,0 +1,64 @@
+/* h3 {
+    margin: 0;
+} */
+
+/* .header {
+    position: fixed;
+    width: 100vw;
+    z-index: 500;
+    color: rgb(253, 253, 253); 
+}*/
+.header-scorll {
+    /* 보이게 */
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    top: 0;
+    z-index: 500;
+    color: rgb(253, 253, 253);
+    transition: top 0.5s ease-in-out;
+    
+
+}
+
+.header-scorll2{    
+    /* 안보이게 */
+    position: fixed;
+    z-index: 500;
+    
+    top: -40px;
+    /* transition: all 0.5s (0, -50px); */
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    border-bottom: 0px solid white;
+    transition: all 1s;
+    color: rgb(0, 0, 0);
+    height: 50px;
+}
+
+
+.main {
+    color: rgb(250, 250, 250);
+    text-decoration: none;
+}
+
+.menu {
+    position: relative;
+    display: flex;
+    list-style-type: none;
+    justify-content: right;
+    padding-right: 30px;
+    top: -53px;
+}
+.menu li {
+    padding: 0 10px;
+    text-decoration : none;
+    color:white;
+}
+
+
